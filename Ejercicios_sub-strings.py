@@ -17,4 +17,4 @@ print(Extraccion2)
 
 Texto3= "Es genial trabajar con ordenadores, No discuten, lo recuerdan todo y no beben tu cerveza"
 Extraccion3= Texto3[::-1]
-print(Extraccion3)
+print(Extraccion3) 

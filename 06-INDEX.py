@@ -4,3 +4,4 @@ print(Busquedaperrona)
 
 Busquedaperrona = Textoperron.index("t")
 print(Busquedaperrona)
+
